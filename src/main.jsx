@@ -6,6 +6,7 @@ import App from './App.jsx'
 import { BrowserRouter, Route, Routes } from 'react-router'
 import Login from './pages/Login.jsx'
 import Register from './pages/Register.jsx'
+import Home from './pages/Home'
 
 
 createRoot(document.getElementById("root")).render(
