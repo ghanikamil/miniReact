@@ -19,6 +19,9 @@ function App() {
       </div>
       <h1>tanggal 6</h1>
       <Link to={"/login"}>halaman login</Link>
+      <br/>
+      <Link to={"/register"}>halaman register</Link>
+      
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
