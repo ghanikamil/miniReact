@@ -20,6 +20,7 @@ function App() {
       <h1>tanggal 6</h1>
       <Link to={"/login"}>halaman login</Link>
       <br/>
+      test production
       <Link to={"/register"}>halaman register</Link>
       
       <div className="card">
